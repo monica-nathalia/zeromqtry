@@ -1,0 +1,8 @@
+C:\Users\admin\Desktop\ZeroMQBundle_Source\ZeroMQBundle\bin\libzmq.dll
+C:\Users\admin\Desktop\ZeroMQBundle_Source\ZeroMQBundle\bin\Sub.exe
+C:\Users\admin\Desktop\ZeroMQBundle_Source\ZeroMQBundle\src\Sub\obj\x86\Release\Sub.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ZeroMQBundle_Source\ZeroMQBundle\src\Sub\obj\x86\Release\Sub.csproj.CopyComplete
+C:\Users\admin\Desktop\ZeroMQBundle_Source\ZeroMQBundle\src\Sub\obj\x86\Release\Sub.exe
+C:\Users\admin\Desktop\ZeroMQBundle_Source\ZeroMQBundle\src\Sub\obj\x86\Release\Sub.pdb
+C:\Users\admin\Desktop\ZeroMQBundle_Source\ZeroMQBundle\bin\Sub.pdb
+C:\Users\admin\Desktop\ZeroMQBundle_Source\ZeroMQBundle\src\Sub\obj\x86\Release\Sub.csprojAssemblyReference.cache
